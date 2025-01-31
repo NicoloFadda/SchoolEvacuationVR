@@ -4,7 +4,7 @@ Doppio click sull'eseguibile --> schermata di avvio solita di unity --> schermat
 Esci --> esce dal gioco
 
 Gioca --> schermata di caricamento con consigli(?) --> entrata nel gioco --> 
-		video tutorial senza che il giocatore possa fare nulla (possibile skip del tutorial?)
+		video tutorial senza che il giocatore possa fare nulla --> skip tutorial possibile
 			tutorial: come funzionano i joystick, come muoversi, come grabbare oggetti, come chiudere una finestra
 			tutorial: fare un briefing sulla teoria del piano di fuga
 		
