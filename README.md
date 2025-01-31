@@ -34,4 +34,3 @@
 
 📌 *Questo progetto dimostra come la realtà virtuale possa rivoluzionare la formazione alla sicurezza nelle scuole, offrendo un'alternativa più efficace rispetto ai metodi tradizionali.*  
 
-🔗 **Contribuisci al progetto!** Se sei interessato a migliorare School Evacuation VR, sentiti libero di fare un fork del repository e inviare una pull request. 🚀  
