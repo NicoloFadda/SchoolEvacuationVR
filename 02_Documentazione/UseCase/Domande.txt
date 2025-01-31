@@ -1,0 +1,4 @@
+UseCase interazione oggetti --> devo aggiungere qualcosa?
+Devo creare uno usecase per interazione npc?
+cosa manca nello usecase?
+nomenclature usecase / convenzioni

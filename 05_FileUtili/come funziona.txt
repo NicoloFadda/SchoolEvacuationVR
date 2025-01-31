@@ -1,0 +1,16 @@
+Come funziona?
+Doppio click sull'eseguibile --> schermata di avvio solita di unity --> schermata principale con il bottone "gioca" o "esci"
+
+Esci --> esce dal gioco
+
+Gioca --> schermata di caricamento con consigli(?) --> entrata nel gioco --> 
+		video tutorial senza che il giocatore possa fare nulla (possibile skip del tutorial?)
+			tutorial: come funzionano i joystick, come muoversi, come grabbare oggetti, come chiudere una finestra
+			tutorial: fare un briefing sulla teoria del piano di fuga
+		
+		Finito il tutorial: giocatore è all'interno dell'aula nella postazione del docente (in piedi davanti la lavagna) e i suoi alunni seduti / in piedi
+				    scatta l'allarme scolastico --> cutscene che avvisa dell'incendio --> situazione base:
+					4 Scelte di dialogo per gli allievi stile the walking dead(?) / altrimenti schiacciare tasto che dice agli allievi di sedersi / stare in piedi
+					una volta che viene detto di stare in piedi, il docente prende il segna persone mentre dice agli allievi di chiudere le finestre
+					chiuse le finestre e il giocatore scrive il numero di persone, uscire dall'aula e seguire le varie vie di fuga
+					in caso una via di fuga sia intasata da fumo, cambiare via di fuga
